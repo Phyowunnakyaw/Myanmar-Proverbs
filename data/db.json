@@ -1,5 +1,5 @@
 {
-    "Tbl_MMProverbsTitle": [
+    "ProverbsTitle": [
       {
         "TitleId": 1,
         "TitleName": "က"
@@ -133,7 +133,7 @@
         "TitleName": "အ"
       }
     ],
-    "Tbl_MMProverbs": [
+    "Proverbs": [
       {
         "TitleId": 1,
         "ProverbId": 1,
